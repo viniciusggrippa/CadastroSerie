@@ -1,0 +1,16 @@
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csprojAssemblyReference.cache
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+D:\Digital Innovation One\appCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
